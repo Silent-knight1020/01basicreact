@@ -6,7 +6,7 @@ function App() {
       <h1 class="name">
         POOJA PUNYANI
       </h1>
-      <p class="para"> I'M GADHI</p>
+      <p class="para"> I'M ultra gadhi</p>
     </>
   );
 }
