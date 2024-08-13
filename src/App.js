@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1 class="name">
-        POOJA PUNYANi
+        POOJA PUNYANI
       </h1>
       <p class="para"> I'M GADHI</p>
     </>
